@@ -1,4 +1,4 @@
-import math //this code runs fine for me but when I submit it to codequest academy it syas it has a runtime error
+import math //this code runs fine for me but when I submit it to codequest academy it says it has a runtime error
 cases = int(input().rstrip())
 
 for i in range(cases):
