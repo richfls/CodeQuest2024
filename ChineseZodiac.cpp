@@ -20,8 +20,8 @@ for i in range(cases):
     print(elements[element], end = " ")
     
     #animal
-    animals = ["Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake" "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"]
+    animallist = ["Rat","Ox","Tiger","Rabbit","Dragon","Snake","Horse","Goat","Monkey","Rooster","Dog","Pig"]
     year = line - 4
     year = year%12
-    print(animals[year], end = " ")
+    print(animallist[year])
         
